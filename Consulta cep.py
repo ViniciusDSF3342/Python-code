@@ -15,4 +15,4 @@ def consulta_cep(cep):
     else:
         print('CEP inválido')
 
-consulta_cep('21060004')  
+consulta_cep('')  
